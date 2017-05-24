@@ -69,7 +69,7 @@ function Start() {
     }
 
     jor1kparameters = {
-        path: "../sys/",
+        path: "sys/",
         system: {
             kernelURL: "kernel/vmlinux.bin.bz2", // kernel image
             memorysize: 32, // in MB, must be a power of two
